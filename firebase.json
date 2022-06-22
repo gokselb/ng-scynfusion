@@ -11,7 +11,7 @@
         ]
       }
     ],
-    "public": "dist/ng-sycnfusion",
+    "public": "dist/ng-syncfusion",
     "ignore": [
       "firebase.json",
       "**/.*",
